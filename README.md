@@ -1,5 +1,7 @@
-📊 Kimia Farma Business Performance Analytics (2020–2023)
+📊 Kimia Farma Business Performance Analytics
+
 Welcome to my data analytics portfolio project!
+
 In this case study, I analyzed Kimia Farma's business performance from 2020 to 2023 using real-world inspired datasets to uncover insights on transactions, revenue, customer satisfaction, and regional profitability.
 
 📌 Project Overview
@@ -7,24 +9,21 @@ Company: Kimia Farma – one of Indonesia’s largest pharmaceutical companies, 
 Objective: To transform scattered operational data into actionable insights that support strategic decision-making across branches and regions.
 
 💡 Business Questions:
-What is Kimia Farma’s performance trend from 2020 to 2023 (transactions, revenue, and profit)?
+1. What is Kimia Farma’s performance trend from 2020 to 2023 (transactions, revenue, and profit)?
 
-How satisfied are customers with their transaction experience?
+2. How satisfied are customers with their transaction experience?
 
-Which branch types contribute the most to total sales?
+3. Which branch types contribute the most to total sales?
 
-Which provinces dominate in transactions and revenue, and why?
+4. Which provinces dominate in transactions and revenue, and why?
 
-Are there branches with high location ratings but low transaction ratings?
+5. Are there branches with high location ratings but low transaction ratings?
 
-How is profit distributed across regions, and which provinces underperform?
+6. How is profit distributed across regions, and which provinces underperform?
 
 🧰 Tools Used
-Tool	Purpose
-Google BigQuery Data Preparing,	Data processing, and transformation
-Google Looker Studio	Data visualization dashboard
-Figma	Dashboard layout design
-
+- Google BigQuery Data Preparing,	Data processing, and transformation
+- Google Looker Studio	Data visualization dashboard
 
 📂 Dataset Overview
 The data consists of four CSV files:
